@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Leite;I+am+from+São+Paulo,+SP;I+study+data+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidSLeite&theme=gotham)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DavidSLeite&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
